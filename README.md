@@ -1,4 +1,4 @@
-# Desafio de Projeto sobre Git/GitHub da DIO # ✔️:
+# Desafio de Projeto sobre Git/GitHub da DIO ✔️:
 
 ## Parte prática realizada a partir do curso "Introdução ao Git e ao GitHub
 
